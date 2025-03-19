@@ -56,7 +56,7 @@ Clone the Repository
 sh
 Copy
 Edit
-git clone https://github.com/your-repo/vehicle-management-system.git
+git clone https://github.com/rushabhk04/VehicleManagementSystem.git
 cd vehicle-management-system
 Compile the Java Files
 
